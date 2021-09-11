@@ -2,7 +2,7 @@
     "workbench.colorTheme": "Default Dark+",
     "terminal.integrated.profiles.windows": {
         "Bash": {
-            "path": "D:\\Program Files\\Git\\bin\\bash.exe", 
+            "path": "C:\\Program Files\\Git\\bin\\bash.exe", 
             "args": ["-l"]
         }
     },
