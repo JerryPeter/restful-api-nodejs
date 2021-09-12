@@ -7,7 +7,6 @@ const path = './';
 //         console.log(file);
 //     });
 // }
-
 // fs.readdir(path, callbackFn);
 
 const data = fs.readdirSync(path);

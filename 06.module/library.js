@@ -8,5 +8,5 @@ function perkalian(a,b) {
 
 module.exports = {
     tambah,
-    kali : perkalian
+    perkalian
 }
